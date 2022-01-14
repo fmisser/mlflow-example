@@ -8,3 +8,6 @@ dependencies:
   - pip
   - pip:
     - mlflow
+    - numpy
+    - pandas
+    - scikit-learn
